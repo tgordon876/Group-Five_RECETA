@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{007B50BD-FB80-4A9B-B753-B68AA234D4D0}</ProjectGuid>
+    <ProjectGuid>{EF745040-957F-49B4-A9AC-21B59DE40C7F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>RecipeApplication</RootNamespace>
-    <AssemblyName>RecipeApplication</AssemblyName>
+    <RootNamespace>ReApp</RootNamespace>
+    <AssemblyName>ReApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
