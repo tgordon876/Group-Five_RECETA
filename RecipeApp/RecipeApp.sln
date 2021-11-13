@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReApp", "ReApp.csproj", "{EF745040-957F-49B4-A9AC-21B59DE40C7F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeApp", "RecipeApp.csproj", "{EF520291-8E94-4FDC-B8D4-2BEAB9247B6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EF745040-957F-49B4-A9AC-21B59DE40C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EF745040-957F-49B4-A9AC-21B59DE40C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EF745040-957F-49B4-A9AC-21B59DE40C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EF745040-957F-49B4-A9AC-21B59DE40C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF520291-8E94-4FDC-B8D4-2BEAB9247B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF520291-8E94-4FDC-B8D4-2BEAB9247B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF520291-8E94-4FDC-B8D4-2BEAB9247B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF520291-8E94-4FDC-B8D4-2BEAB9247B6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4B769BBF-398F-4C21-BAF5-CF5E1C9A7A1B}
+		SolutionGuid = {A0A82B6C-2302-461D-BACE-D670797D2D3F}
 	EndGlobalSection
 EndGlobal
