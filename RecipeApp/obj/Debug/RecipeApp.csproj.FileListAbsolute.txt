@@ -8,3 +8,13 @@ C:\Users\texgh\source\repos\RecipeApp\obj\Debug\RecipeApp.csproj.CoreCompileInpu
 C:\Users\texgh\source\repos\RecipeApp\obj\Debug\RecipeApp.exe
 C:\Users\texgh\source\repos\RecipeApp\obj\Debug\RecipeApp.pdb
 C:\Users\texgh\source\repos\RecipeApp\obj\Debug\RecipeApp.MainForm.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecipeApp\bin\Debug\RecipeApp.exe.config
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecipeApp\bin\Debug\RecipeApp.exe
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecipeApp\bin\Debug\RecipeApp.pdb
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecipeApp\obj\Debug\RecipeApp.csproj.AssemblyReference.cache
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecipeApp\obj\Debug\RecipeApp.MainForm.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecipeApp\obj\Debug\RecipeApp.Properties.Resources.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecipeApp\obj\Debug\RecipeApp.csproj.GenerateResource.cache
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecipeApp\obj\Debug\RecipeApp.csproj.CoreCompileInputs.cache
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecipeApp\obj\Debug\RecipeApp.exe
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecipeApp\obj\Debug\RecipeApp.pdb
