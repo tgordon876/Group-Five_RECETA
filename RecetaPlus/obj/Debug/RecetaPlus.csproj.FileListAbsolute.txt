@@ -1,0 +1,10 @@
+C:\Users\texgh\source\repos\RecetaPlus\bin\Debug\RecetaPlus.exe.config
+C:\Users\texgh\source\repos\RecetaPlus\bin\Debug\RecetaPlus.exe
+C:\Users\texgh\source\repos\RecetaPlus\bin\Debug\RecetaPlus.pdb
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.csproj.AssemblyReference.cache
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.MainForm.resources
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.Properties.Resources.resources
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.csproj.GenerateResource.cache
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.csproj.CoreCompileInputs.cache
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.exe
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.pdb
