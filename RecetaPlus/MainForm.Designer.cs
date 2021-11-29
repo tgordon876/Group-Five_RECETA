@@ -40,22 +40,22 @@ namespace RecetaPlus
             this.btn = new System.Windows.Forms.Panel();
             this.btnHome = new System.Windows.Forms.PictureBox();
             this.pnlTitleBar = new System.Windows.Forms.Panel();
+            this.picBoxMin = new System.Windows.Forms.PictureBox();
+            this.picBoxMax = new System.Windows.Forms.PictureBox();
+            this.picBoxCancel = new System.Windows.Forms.PictureBox();
             this.txtBoxSearch = new System.Windows.Forms.TextBox();
             this.CurrentChildFormIcon = new System.Windows.Forms.PictureBox();
             this.lblTitleOfChildForm = new System.Windows.Forms.Label();
             this.pnlBar = new System.Windows.Forms.Panel();
             this.pnlDesktop = new System.Windows.Forms.Panel();
-            this.picBoxCancel = new System.Windows.Forms.PictureBox();
-            this.picBoxMax = new System.Windows.Forms.PictureBox();
-            this.picBoxMin = new System.Windows.Forms.PictureBox();
             this.pnlMenu.SuspendLayout();
             this.btn.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnHome)).BeginInit();
             this.pnlTitleBar.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.CurrentChildFormIcon)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxCancel)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxMax)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxMin)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBoxMax)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBoxCancel)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.CurrentChildFormIcon)).BeginInit();
             this.SuspendLayout();
             // 
             // pnlMenu
@@ -237,6 +237,39 @@ namespace RecetaPlus
             this.pnlTitleBar.TabIndex = 1;
             this.pnlTitleBar.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnlTitleBar_MouseDown);
             // 
+            // picBoxMin
+            // 
+            this.picBoxMin.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.picBoxMin.Image = ((System.Drawing.Image)(resources.GetObject("picBoxMin.Image")));
+            this.picBoxMin.Location = new System.Drawing.Point(759, 3);
+            this.picBoxMin.Name = "picBoxMin";
+            this.picBoxMin.Size = new System.Drawing.Size(30, 34);
+            this.picBoxMin.TabIndex = 5;
+            this.picBoxMin.TabStop = false;
+            this.picBoxMin.Click += new System.EventHandler(this.picBoxMin_Click);
+            // 
+            // picBoxMax
+            // 
+            this.picBoxMax.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.picBoxMax.Image = ((System.Drawing.Image)(resources.GetObject("picBoxMax.Image")));
+            this.picBoxMax.Location = new System.Drawing.Point(800, 3);
+            this.picBoxMax.Name = "picBoxMax";
+            this.picBoxMax.Size = new System.Drawing.Size(30, 34);
+            this.picBoxMax.TabIndex = 4;
+            this.picBoxMax.TabStop = false;
+            this.picBoxMax.Click += new System.EventHandler(this.picBoxMax_Click);
+            // 
+            // picBoxCancel
+            // 
+            this.picBoxCancel.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.picBoxCancel.Image = ((System.Drawing.Image)(resources.GetObject("picBoxCancel.Image")));
+            this.picBoxCancel.Location = new System.Drawing.Point(840, 3);
+            this.picBoxCancel.Name = "picBoxCancel";
+            this.picBoxCancel.Size = new System.Drawing.Size(33, 34);
+            this.picBoxCancel.TabIndex = 3;
+            this.picBoxCancel.TabStop = false;
+            this.picBoxCancel.Click += new System.EventHandler(this.picBoxCancel_Click);
+            // 
             // txtBoxSearch
             // 
             this.txtBoxSearch.Anchor = System.Windows.Forms.AnchorStyles.None;
@@ -292,39 +325,6 @@ namespace RecetaPlus
             this.pnlDesktop.Size = new System.Drawing.Size(882, 490);
             this.pnlDesktop.TabIndex = 3;
             // 
-            // picBoxCancel
-            // 
-            this.picBoxCancel.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.picBoxCancel.Image = ((System.Drawing.Image)(resources.GetObject("picBoxCancel.Image")));
-            this.picBoxCancel.Location = new System.Drawing.Point(840, 3);
-            this.picBoxCancel.Name = "picBoxCancel";
-            this.picBoxCancel.Size = new System.Drawing.Size(33, 34);
-            this.picBoxCancel.TabIndex = 3;
-            this.picBoxCancel.TabStop = false;
-            this.picBoxCancel.Click += new System.EventHandler(this.picBoxCancel_Click);
-            // 
-            // picBoxMax
-            // 
-            this.picBoxMax.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.picBoxMax.Image = ((System.Drawing.Image)(resources.GetObject("picBoxMax.Image")));
-            this.picBoxMax.Location = new System.Drawing.Point(800, 3);
-            this.picBoxMax.Name = "picBoxMax";
-            this.picBoxMax.Size = new System.Drawing.Size(30, 34);
-            this.picBoxMax.TabIndex = 4;
-            this.picBoxMax.TabStop = false;
-            this.picBoxMax.Click += new System.EventHandler(this.picBoxMax_Click);
-            // 
-            // picBoxMin
-            // 
-            this.picBoxMin.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.picBoxMin.Image = ((System.Drawing.Image)(resources.GetObject("picBoxMin.Image")));
-            this.picBoxMin.Location = new System.Drawing.Point(759, 3);
-            this.picBoxMin.Name = "picBoxMin";
-            this.picBoxMin.Size = new System.Drawing.Size(30, 34);
-            this.picBoxMin.TabIndex = 5;
-            this.picBoxMin.TabStop = false;
-            this.picBoxMin.Click += new System.EventHandler(this.picBoxMin_Click);
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -337,17 +337,17 @@ namespace RecetaPlus
             this.Controls.Add(this.pnlMenu);
             this.Name = "MainForm";
             this.ShowIcon = false;
-            this.Text = "MainForm";
+            this.Text = " ";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.pnlMenu.ResumeLayout(false);
             this.btn.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.btnHome)).EndInit();
             this.pnlTitleBar.ResumeLayout(false);
             this.pnlTitleBar.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.CurrentChildFormIcon)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxCancel)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.picBoxMax)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxMin)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBoxMax)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBoxCancel)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.CurrentChildFormIcon)).EndInit();
             this.ResumeLayout(false);
 
         }

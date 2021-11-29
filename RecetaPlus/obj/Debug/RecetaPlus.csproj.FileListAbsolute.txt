@@ -8,3 +8,25 @@ C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.csproj.GenerateResou
 C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.csproj.CoreCompileInputs.cache
 C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.exe
 C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.pdb
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormBreakFast.resources
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormDessert.resources
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormDinner.resources
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormHelp.resources
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormJuice.resources
+C:\Users\texgh\source\repos\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormLunch.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\bin\Debug\RecetaPlus.exe.config
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\bin\Debug\RecetaPlus.exe
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\bin\Debug\RecetaPlus.pdb
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.csproj.AssemblyReference.cache
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormBreakFast.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormDessert.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormDinner.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormHelp.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormJuice.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormLunch.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.MainForm.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.Properties.Resources.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.csproj.GenerateResource.cache
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.csproj.CoreCompileInputs.cache
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.exe
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.pdb

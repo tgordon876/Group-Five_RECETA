@@ -108,51 +108,58 @@ namespace RecetaPlus
         private void btnBreakFast_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, RGBColors.color1);
-            //OpenChildForm(new FormBreakFast());
+            OpenChildForm(new Forms.FormBreakFast());
             lblTitleOfChildForm.Text = btnBreakFast.Text;
+            lblTitleOfChildForm.ForeColor = RGBColors.color1;
 
         }
 
         private void btnLunch_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, RGBColors.color2);
-            //OpenChildForm(new FormLunch());
+            OpenChildForm(new Forms.FormLunch());
             lblTitleOfChildForm.Text = btnLunch.Text;
+            lblTitleOfChildForm.ForeColor = RGBColors.color2;
         }
 
         private void btnDinner_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, RGBColors.color3);
-            //OpenChildForm(new FormDinner());
+            OpenChildForm(new Forms.FormDinner());
             lblTitleOfChildForm.Text = btnDinner.Text;
+            lblTitleOfChildForm.ForeColor = RGBColors.color3;
         }
 
         private void btnDesert_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, RGBColors.color4);
-            //OpenChildForm(new FormDessert());
+            OpenChildForm(new Forms.FormDessert());
             lblTitleOfChildForm.Text = btnDesert.Text;
+            lblTitleOfChildForm.ForeColor = RGBColors.color4;
         }
 
         private void btnJuice_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, RGBColors.color5);
-            //OpenChildForm(new FormJuice());
+            OpenChildForm(new Forms.FormJuice());
             lblTitleOfChildForm.Text = btnJuice.Text;
+            lblTitleOfChildForm.ForeColor = RGBColors.color5;
         }
 
         private void btnHelp_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, RGBColors.color6);
-            //OpenChildForm(new FormHelp());
+            OpenChildForm(new Forms.FormHelp());
             lblTitleOfChildForm.Text = btnHelp.Text;
+            lblTitleOfChildForm.ForeColor = RGBColors.color6;
         }
                 
         private void btnHome_Click(object sender, EventArgs e)
         {
-            //currentChildForm.Close();
+            currentChildForm.Close();
             Reset();
             lblTitleOfChildForm.Text = "Home";
+            lblTitleOfChildForm.ForeColor = Color.DarkGreen;
         }
 
         private void Reset()
