@@ -160,6 +160,7 @@ namespace RecetaPlus
             Reset();
             lblTitleOfChildForm.Text = "Home";
             lblTitleOfChildForm.ForeColor = Color.DarkGreen;
+            txtBoxSearch.Text = " ";
         }
 
         private void Reset()
@@ -198,6 +199,19 @@ namespace RecetaPlus
         private void picBoxCancel_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void txtBoxSearch_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            string input = txtBoxSearch.Text;
+            if (e.KeyChar == (char)Keys.Enter)
+            {
+                //remove the system beep when enter is pressed
+                e.Handled = true;
+
+                OpenChildForm(new Forms.FormSearch(input));
+                Reset();
+            }
         }
     }
 }

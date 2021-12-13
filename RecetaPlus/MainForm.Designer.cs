@@ -48,6 +48,7 @@ namespace RecetaPlus
             this.lblTitleOfChildForm = new System.Windows.Forms.Label();
             this.pnlBar = new System.Windows.Forms.Panel();
             this.pnlDesktop = new System.Windows.Forms.Panel();
+            this.lblWelcomeNote = new System.Windows.Forms.Label();
             this.pnlMenu.SuspendLayout();
             this.btn.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.btnHome)).BeginInit();
@@ -56,6 +57,7 @@ namespace RecetaPlus
             ((System.ComponentModel.ISupportInitialize)(this.picBoxMax)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxCancel)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.CurrentChildFormIcon)).BeginInit();
+            this.pnlDesktop.SuspendLayout();
             this.SuspendLayout();
             // 
             // pnlMenu
@@ -71,7 +73,7 @@ namespace RecetaPlus
             this.pnlMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.pnlMenu.Location = new System.Drawing.Point(0, 0);
             this.pnlMenu.Name = "pnlMenu";
-            this.pnlMenu.Size = new System.Drawing.Size(220, 595);
+            this.pnlMenu.Size = new System.Drawing.Size(220, 584);
             this.pnlMenu.TabIndex = 0;
             // 
             // btnHelp
@@ -233,7 +235,7 @@ namespace RecetaPlus
             this.pnlTitleBar.Dock = System.Windows.Forms.DockStyle.Top;
             this.pnlTitleBar.Location = new System.Drawing.Point(220, 0);
             this.pnlTitleBar.Name = "pnlTitleBar";
-            this.pnlTitleBar.Size = new System.Drawing.Size(882, 103);
+            this.pnlTitleBar.Size = new System.Drawing.Size(847, 103);
             this.pnlTitleBar.TabIndex = 1;
             this.pnlTitleBar.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pnlTitleBar_MouseDown);
             // 
@@ -241,7 +243,7 @@ namespace RecetaPlus
             // 
             this.picBoxMin.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.picBoxMin.Image = ((System.Drawing.Image)(resources.GetObject("picBoxMin.Image")));
-            this.picBoxMin.Location = new System.Drawing.Point(759, 3);
+            this.picBoxMin.Location = new System.Drawing.Point(724, 3);
             this.picBoxMin.Name = "picBoxMin";
             this.picBoxMin.Size = new System.Drawing.Size(30, 34);
             this.picBoxMin.TabIndex = 5;
@@ -252,7 +254,7 @@ namespace RecetaPlus
             // 
             this.picBoxMax.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.picBoxMax.Image = ((System.Drawing.Image)(resources.GetObject("picBoxMax.Image")));
-            this.picBoxMax.Location = new System.Drawing.Point(800, 3);
+            this.picBoxMax.Location = new System.Drawing.Point(765, 3);
             this.picBoxMax.Name = "picBoxMax";
             this.picBoxMax.Size = new System.Drawing.Size(30, 34);
             this.picBoxMax.TabIndex = 4;
@@ -263,7 +265,7 @@ namespace RecetaPlus
             // 
             this.picBoxCancel.Anchor = System.Windows.Forms.AnchorStyles.Right;
             this.picBoxCancel.Image = ((System.Drawing.Image)(resources.GetObject("picBoxCancel.Image")));
-            this.picBoxCancel.Location = new System.Drawing.Point(840, 3);
+            this.picBoxCancel.Location = new System.Drawing.Point(805, 3);
             this.picBoxCancel.Name = "picBoxCancel";
             this.picBoxCancel.Size = new System.Drawing.Size(33, 34);
             this.picBoxCancel.TabIndex = 3;
@@ -275,17 +277,18 @@ namespace RecetaPlus
             this.txtBoxSearch.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txtBoxSearch.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtBoxSearch.ForeColor = System.Drawing.Color.DarkGreen;
-            this.txtBoxSearch.Location = new System.Drawing.Point(203, 60);
+            this.txtBoxSearch.Location = new System.Drawing.Point(185, 60);
             this.txtBoxSearch.Margin = new System.Windows.Forms.Padding(3, 0, 3, 15);
             this.txtBoxSearch.Name = "txtBoxSearch";
             this.txtBoxSearch.Size = new System.Drawing.Size(435, 31);
             this.txtBoxSearch.TabIndex = 2;
+            this.txtBoxSearch.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtBoxSearch_KeyPress);
             // 
             // CurrentChildFormIcon
             // 
             this.CurrentChildFormIcon.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.CurrentChildFormIcon.Image = ((System.Drawing.Image)(resources.GetObject("CurrentChildFormIcon.Image")));
-            this.CurrentChildFormIcon.Location = new System.Drawing.Point(344, 11);
+            this.CurrentChildFormIcon.Location = new System.Drawing.Point(326, 11);
             this.CurrentChildFormIcon.Name = "CurrentChildFormIcon";
             this.CurrentChildFormIcon.Size = new System.Drawing.Size(32, 32);
             this.CurrentChildFormIcon.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -298,7 +301,7 @@ namespace RecetaPlus
             this.lblTitleOfChildForm.AutoSize = true;
             this.lblTitleOfChildForm.Font = new System.Drawing.Font("Arial Rounded MT Bold", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitleOfChildForm.ForeColor = System.Drawing.Color.DarkGreen;
-            this.lblTitleOfChildForm.Location = new System.Drawing.Point(382, 17);
+            this.lblTitleOfChildForm.Location = new System.Drawing.Point(364, 17);
             this.lblTitleOfChildForm.Name = "lblTitleOfChildForm";
             this.lblTitleOfChildForm.Padding = new System.Windows.Forms.Padding(5, 0, 0, 0);
             this.lblTitleOfChildForm.Size = new System.Drawing.Size(105, 32);
@@ -313,24 +316,37 @@ namespace RecetaPlus
             this.pnlBar.Margin = new System.Windows.Forms.Padding(3, 15, 3, 3);
             this.pnlBar.Name = "pnlBar";
             this.pnlBar.Padding = new System.Windows.Forms.Padding(0, 15, 0, 0);
-            this.pnlBar.Size = new System.Drawing.Size(882, 2);
+            this.pnlBar.Size = new System.Drawing.Size(847, 2);
             this.pnlBar.TabIndex = 2;
             // 
             // pnlDesktop
             // 
             this.pnlDesktop.BackColor = System.Drawing.Color.LightYellow;
+            this.pnlDesktop.Controls.Add(this.lblWelcomeNote);
             this.pnlDesktop.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pnlDesktop.Location = new System.Drawing.Point(220, 105);
             this.pnlDesktop.Name = "pnlDesktop";
-            this.pnlDesktop.Size = new System.Drawing.Size(882, 490);
+            this.pnlDesktop.Size = new System.Drawing.Size(847, 479);
             this.pnlDesktop.TabIndex = 3;
+            // 
+            // lblWelcomeNote
+            // 
+            this.lblWelcomeNote.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblWelcomeNote.AutoSize = true;
+            this.lblWelcomeNote.Font = new System.Drawing.Font("Comic Sans MS", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblWelcomeNote.ForeColor = System.Drawing.Color.DarkGreen;
+            this.lblWelcomeNote.Location = new System.Drawing.Point(195, 169);
+            this.lblWelcomeNote.Name = "lblWelcomeNote";
+            this.lblWelcomeNote.Size = new System.Drawing.Size(447, 55);
+            this.lblWelcomeNote.TabIndex = 0;
+            this.lblWelcomeNote.Text = "Welcome to Receta !!!";
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(1102, 595);
+            this.ClientSize = new System.Drawing.Size(1067, 584);
             this.Controls.Add(this.pnlDesktop);
             this.Controls.Add(this.pnlBar);
             this.Controls.Add(this.pnlTitleBar);
@@ -348,6 +364,8 @@ namespace RecetaPlus
             ((System.ComponentModel.ISupportInitialize)(this.picBoxMax)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picBoxCancel)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.CurrentChildFormIcon)).EndInit();
+            this.pnlDesktop.ResumeLayout(false);
+            this.pnlDesktop.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -372,6 +390,7 @@ namespace RecetaPlus
         private System.Windows.Forms.PictureBox picBoxCancel;
         private System.Windows.Forms.PictureBox picBoxMax;
         private System.Windows.Forms.PictureBox picBoxMin;
+        private System.Windows.Forms.Label lblWelcomeNote;
     }
 }
 

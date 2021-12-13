@@ -30,3 +30,68 @@ C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\Receta
 C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.csproj.CoreCompileInputs.cache
 C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.exe
 C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA\RecetaPlus\obj\Debug\RecetaPlus.pdb
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\bin\Debug\RecetaPlus.exe.config
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\bin\Debug\RecetaPlus.exe
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\bin\Debug\RecetaPlus.pdb
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\bin\Debug\RestSharp.dll
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\bin\Debug\RestSharp.xml
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.csproj.AssemblyReference.cache
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormBreakFast.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormDessert.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormDinner.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormHelp.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormJuice.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormLunch.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.MainForm.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.Properties.Resources.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.csproj.GenerateResource.cache
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.csproj.CoreCompileInputs.cache
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.csproj.CopyComplete
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.exe
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.pdb
+C:\Users\kirst\source\repos\Group-Five_RECETA-origin-texghn\RecetaPlus\obj\Debug\RecetaPlus.FormSearch.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\RecetaPlus.exe.config
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\RecetaPlus.exe
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\RecetaPlus.pdb
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\RestSharp.dll
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\RestSharp.xml
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.csproj.AssemblyReference.cache
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormBreakFast.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormDessert.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormDinner.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormHelp.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormJuice.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormLunch.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormSearch.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.MainForm.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Properties.Resources.resources
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.csproj.GenerateResource.cache
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.csproj.CoreCompileInputs.cache
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.csproj.CopyComplete
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.exe
+C:\Users\kirst\source\repos\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.pdb
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\RecetaPlus.exe.config
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\RecetaPlus.exe
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\RecetaPlus.pdb
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\RestSharp.dll
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\bin\Debug\RestSharp.xml
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.csproj.AssemblyReference.cache
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormBreakFast.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormDessert.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormDinner.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormHelp.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormJuice.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormLunch.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Forms.FormSearch.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.MainForm.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.Properties.Resources.resources
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.csproj.GenerateResource.cache
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.csproj.CoreCompileInputs.cache
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.exe
+C:\Users\texgh\OneDrive\Documents\School\OOP (SODV2202)\Group-Five_RECETA-working-file\RecetaPlus\obj\Debug\RecetaPlus.pdb

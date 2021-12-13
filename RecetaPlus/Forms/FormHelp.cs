@@ -16,5 +16,15 @@ namespace RecetaPlus.Forms
         {
             InitializeComponent();
         }
+
+        private void lblHelpTitle_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblhelpNumber_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -29,25 +29,59 @@ namespace RecetaPlus.Forms
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
+            this.lblHelpTitle = new System.Windows.Forms.Label();
+            this.lblhelpNumber = new System.Windows.Forms.Label();
+            this.lblHelpSupport = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // label1
+            // lblHelpTitle
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(355, 191);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(37, 17);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Help";
+            this.lblHelpTitle.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblHelpTitle.AutoSize = true;
+            this.lblHelpTitle.Font = new System.Drawing.Font("Consolas", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHelpTitle.Location = new System.Drawing.Point(229, 51);
+            this.lblHelpTitle.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblHelpTitle.Name = "lblHelpTitle";
+            this.lblHelpTitle.Size = new System.Drawing.Size(233, 38);
+            this.lblHelpTitle.TabIndex = 0;
+            this.lblHelpTitle.Text = "Help Support";
+            this.lblHelpTitle.Click += new System.EventHandler(this.lblHelpTitle_Click);
+            // 
+            // lblhelpNumber
+            // 
+            this.lblhelpNumber.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblhelpNumber.AutoSize = true;
+            this.lblhelpNumber.Font = new System.Drawing.Font("Cambria", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblhelpNumber.Location = new System.Drawing.Point(187, 147);
+            this.lblhelpNumber.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblhelpNumber.Name = "lblhelpNumber";
+            this.lblhelpNumber.Size = new System.Drawing.Size(323, 47);
+            this.lblhelpNumber.TabIndex = 1;
+            this.lblhelpNumber.Text = "1-403-432-1234";
+            this.lblhelpNumber.Click += new System.EventHandler(this.lblhelpNumber_Click);
+            // 
+            // lblHelpSupport
+            // 
+            this.lblHelpSupport.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.lblHelpSupport.AutoSize = true;
+            this.lblHelpSupport.Font = new System.Drawing.Font("Arial", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblHelpSupport.Location = new System.Drawing.Point(210, 207);
+            this.lblHelpSupport.Name = "lblHelpSupport";
+            this.lblHelpSupport.Size = new System.Drawing.Size(291, 35);
+            this.lblHelpSupport.TabIndex = 2;
+            this.lblHelpSupport.Text = "We are here to help";
             // 
             // FormHelp
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 23F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightYellow;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label1);
+            this.ClientSize = new System.Drawing.Size(662, 398);
+            this.Controls.Add(this.lblHelpSupport);
+            this.Controls.Add(this.lblhelpNumber);
+            this.Controls.Add(this.lblHelpTitle);
+            this.Font = new System.Drawing.Font("Arial Rounded MT Bold", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormHelp";
             this.Text = "FormHelp";
             this.ResumeLayout(false);
@@ -57,6 +91,8 @@ namespace RecetaPlus.Forms
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblHelpTitle;
+        private System.Windows.Forms.Label lblhelpNumber;
+        private System.Windows.Forms.Label lblHelpSupport;
     }
 }
